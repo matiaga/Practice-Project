@@ -1,0 +1,68 @@
+# 1. EDA
+## 1.1 First view
+1.2 Missing values
+1.3 Features Analysis
+### 1.3.1 Unique values
+#### 1.3.1.1 Type of glass unique values
+#### 1.3.1.2 Independent variables unique values
+### 1.3.2 Summary statistics of the numerical variables
+1.3.3 Duplicates
+1.4 Data Visualization
+1.4.1 Univariate Analysis
+1.4.1.1 Target feature
+1.4.1.2 Numerical columns
+1.4.1.3 Univariate Boxplot ???
+
+1.4.2  Bivariate Analysis
+1.4.2.1 BoxPlot Analysis:  Finding outliers
+1.4.2.2 Relation between Refractive Index and Sodium
+1.4.2.3 Relation between Aluminium and Barium
+1.4.2.4 Relation between Magnesium and Calcium
+1.4.2.5 Relation between Silicon and Potassium
+1.4.2.6 Relation between Fe and Potassium
+1.4.2.6 Relation between Iron and Aluminum
+
+
+1.4.3 Multivariate Analysis
+1.4.3.1 Pairplot
+1.4.3.2 Correlation between target variable and independent variables.
+
+
+2. Preprocessing Data
+2.1 Missing values
+2.2 Removing Outliers 
+2.3 Skewness Correction
+2.4 Feature Scaling using Standard Scalarization
+2.5 Muticollinearity Analysis and Feature Selection
+2.6 Balancing the Dataset
+
+3. Modeling
+3.1 Finding the best random state
+3.2 Creating train test split
+3.3 Classification Algorithms
+3.3.1 Random Forest Classifier 
+3.3.2 Extra Trees Classifier
+3.3.3 Logistic Regression
+3.3.4 Support Vector Machine Classifier
+3.3.5 Gradient Boosting Classifier
+3.3.6 AdaBoost Classifier
+3.3.7 Baggin Classifier
+
+3.4 Comparing models
+3.4.1 Comparing accuracy of each model
+3.4.2 Cross validation Score
+
+
+3.5 Hyper Parameter Tuning
+3.5.1 Finding the best parameters for ExtraTreesClassifier
+3.6 Final Model 
+3.6.1 Plotting ROC and compare AUC for all the models used
+3.6.2 Plotting ROC and compare AUC for  the best model 
+3.6.3 Saving the model
+
+
+
+
+
+
+
